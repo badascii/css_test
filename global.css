@@ -1,0 +1,15 @@
+div.row {
+	background-color: #90EE90;
+}
+
+div div {
+	color: white;
+}
+
+div.squad {
+	background-color: white;
+	width: 100px; 
+	height: 100px;
+	margin: 20px;
+	display: inline-block;
+}
